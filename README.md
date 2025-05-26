@@ -114,8 +114,7 @@ __Texte souligné__
 
 ## 4. Où voir le rendu ?
 
-- Sur **GitHub** : ouvre n’importe quel `.md` pour voir le rendu en ligne.
-- Sur **VSCode** : fais clic droit sur le fichier et “Ouvrir l’aperçu Markdown”.
+- Sur [https://dillinger.io/](https://dillinger.io/) : pour t’entraîner sans installer de logiciel.
 
 ---
 
